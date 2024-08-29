@@ -22,3 +22,5 @@ I'm a data professional in Columbus, OH with a passion for sports and business.
 **Tools**: Alteryx • Amazon Web Services (AWS) • DBT • Google Cloud Platform (GCP) • Git • Hex • Jira • Matillion ETL • Python • Qualtrics • R • Sigma • SQL • Tableau \
 **Database**: Google BigQuery • MySQL • Oracle • PostgreSQL • Snowflake • SQL Server • Teradata  \
 **Certifications**:  Alteryx Designer Core & Advanced (2020-2023) • Tableau Desktop Specialist
+
+Welcome to my data Portfolio!
