@@ -15,12 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋, I'm Carter
+## Hi there, I'm Carter
 
 I'm a data professional in Columbus, OH with a passion for sports and business.
 
-**Tools**: Alteryx • Amazon Web Services (AWS) • DBT • Google Cloud Platform (GCP) • Git • Hex • Jira • Matillion ETL • Python • Qualtrics • R • Sigma • SQL • Tableau \
-**Database**: Google BigQuery • MySQL • Oracle • PostgreSQL • Snowflake • SQL Server • Teradata  \
-**Certifications**:  Alteryx Designer Core & Advanced (2020-2023) • Tableau Desktop Specialist
+### ⛳ Skills
 
-Welcome to my data Portfolio!
+- **Language**: Python • R • SQL
+- **Viz**: Sigma • Tableau
+- **Database**: Google BigQuery • MySQL • PostgreSQL • Snowflake • SQL Server
+
+### 🏈 Connect
+- [LinkedIn](https://www.linkedin.com/in/carterrudek/)
+- [Tableau Public](https://public.tableau.com/app/profile/carter.rudek)
+
+
+Welcome!
