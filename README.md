@@ -24,6 +24,7 @@ I'm a data professional in Columbus, OH with a passion for sports and business.
 - **Language**: Python • R • SQL
 - **Viz**: Sigma • Tableau
 - **Database**: Google BigQuery • MySQL • PostgreSQL • Snowflake • SQL Server
+- **Misc**: Alteryx • DBT • Matillion
 
 ### 🏈 Connect
 - [LinkedIn](https://www.linkedin.com/in/carterrudek/)
